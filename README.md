@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AWS / Azure / VMware automation with Terraform & GitOps<br><br> I'm looking to collaborate on Cloud Native & DevOps open-source projects<br><br> I'm looking for help with ArgoCD enterprise patterns<br><br>I'm currently learning AWS SysOps (SOA-C03) & AZ-104<br><br>Ask me about Cloud Infrastructure, Linux, Terraform, Docker, K8s, Windows, VMware <br><br>Fun fact: I love to automate everything.<br>
+I'm currently working on AWS / Azure / VMware automation with Bash, PowerShell, Power li, Ansible,Terraform & GitOps<br> I'm looking to collaborate on Cloud Native & DevOps open-source projects<br> I'm looking for help with CD/CI enterprise patterns<br> I'm currently learning AWS SysOps (SOA-C03) & AZ-104<br> Ask me about Cloud Infrastructure, Linux, Terraform, Docker, K8s, Windows, VMware <br> Fun fact: I love to automate everything.<br>
 
 
 ## 🌐 Socials:
